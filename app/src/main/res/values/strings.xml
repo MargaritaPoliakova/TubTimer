@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TubTimer</string>
+    <string name="title_track">На трассе</string>
+    <string name="title_free">Свободные</string>
+    <string name="title_repair">В ремонте</string>
+    <string name="empty">Список пуст</string>
+    <string name="aboutProgram">
+        Программа создана "MB Production".
+        Разработчики:\n
+        Полякова Маргарита,
+        Донской Иван.
+        Дизайн: Поляков Руф. \n
+        \n
+        Контактные данные:\n
+        +7(924)705-69-75 (Viber, WhatsApp)\n
+        e-mail: margarita.03@list.ru
+    </string>
+
+</resources>

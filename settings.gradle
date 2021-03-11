@@ -1,0 +1,2 @@
+include ':app', ':near'
+rootProject.name = "TubTimer"
